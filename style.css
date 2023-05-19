@@ -1,0 +1,45 @@
+body {
+    background-color: #da2393;
+  }
+  
+  .container {
+    margin-top: 90px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .input-group {
+    margin-top: 20px;
+  }
+  
+  #go-button {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  
+  #weather-container {
+    margin-top: 40px;
+  }
+  
+  .card {
+    background-color: #f8f9fa;
+    border: none;
+  }
+  
+  .card-header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #0fb446;
+  }
+  
+  .card-body {
+    font-size: 18px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
